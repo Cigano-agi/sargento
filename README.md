@@ -24,6 +24,15 @@ Criado por **Bruno Fabricio Feitosa** ([@cigano.agi](https://instagram.com/cigan
 
 ---
 
+## Plataformas Suportadas
+
+| Plataforma | Integração | Documentação |
+|---|---|---|
+| **Claude Code** | Agente local (`~/.claude/agents/sargento.md`) | [Ver instruções](#como-instalar-no-claude-code) |
+| **Google Antigravity** | Agente autônomo & Subagente PoP-M2M | [Guia Antigravity](integrations/antigravity/README.md) |
+
+---
+
 ## Como instalar no Claude Code
 
 ### Opção 1 — Agente local (recomendado)
